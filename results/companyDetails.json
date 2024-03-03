@@ -1,0 +1,680 @@
+{
+  "companies": [
+    {
+      "Name": "A. Menarini Farmaceutica Internazionale SRL",
+      "Logo": "A._Menarini_Farmaceutica_Internazionale_SRL.png",
+      "Address": "Menarini House, Mercury Park, Wycombe Lane, Wooburn Green, Buckinghamshire, HP10 0HH",
+      "Telephone": "0800 085 8678",
+      "Fax": "+44 (0) 1628 856402",
+      "MedicalInformationDirectLine": "0800 085 8678",
+      "MedicalInformationEmail": "menarini@medinformation.co.uk",
+      "OutOfHoursTelephone": "0800 085 8678"
+    },
+    {
+      "Name": "Advanced Accelerator Applications",
+      "Logo": "Advanced_Accelerator_Applications.png",
+      "Address": "2nd floor, The Westworks Building, White City Place, 195 Woodlane, London, W12 7FQ, UK",
+      "Website": "https://www.adacap.com/our-sites/",
+      "Telephone": "+44 (0)20 7258 5216, +44 (0)20 7258 5200",
+      "MedicalInformationEmail": "medinfo.uk@novartis.com",
+      "CustomerCareDirectLine": "+44 (0)20 7258 5216, +44 (0)20 7258 5200",
+      "StockAvailability": "+44 (0)20 7258 5216, +44 (0)20 7258 5200"
+    },
+    {
+      "Name": "axunio Pharma GmbH",
+      "Logo": "axunio_Pharma_GmbH.png",
+      "Address": "Van-der-Smissen-Strasse 1, Hamburg, 22767, Germany",
+      "Website": "https://axunio.eu/",
+      "Telephone": "+ 49 (0)40 - 38 02 32 14",
+      "Fax": "+ 49 (0)40 - 38 02 32 09",
+      "MedicalInformationDirectLine": "+ 49 (0)40 - 38 02 32 14",
+      "MedicalInformationEmail": "medinfo@axunio.eu",
+      "CustomerCareDirectLine": "+ 49 (0)40 - 38 02 32 14",
+      "StockAvailability": "info@axunio.eu"
+    },
+    {
+      "Name": "B.Braun Medical",
+      "Logo": "B.Braun_Medical.png",
+      "Address": "Brookdale Road, Thorncliffe Park Estate, Chapeltown, Sheffield, South Yorkshire, S35 2PW",
+      "Website": "//www.bbraun.co.uk/en",
+      "Telephone": "0114 225 9000",
+      "Email": "info.bbmuk@bbraun.com",
+      "MedicalInformationDirectLine": "0800 298 0299",
+      "MedicalInformationEmail": "medinfo.bbmuk@bbraun.com",
+      "StockAvailability": "customercare.bbmuk@bbraun.com"
+    },
+    {
+      "Name": "Baxter Healthcare Ltd",
+      "Logo": "Baxter_Healthcare_Ltd.png",
+      "Address": "Caxton Way, Thetford, Norfolk, IP24 3SE, UK",
+      "Website": "http://www.baxterhealthcare.co.uk",
+      "Fax": "+44 (0)1635 206071",
+      "MedicalInformationDirectLine": "+44 (0)1635 206345",
+      "MedicalInformationEmail": "medinfo_uki@baxter.com",
+      "MedicalInformationFax": "+44 (0)1635 206071"
+    },
+    {
+      "Name": "Brown & Burk UK Ltd",
+      "Logo": "Brown_&_Burk_UK_Ltd.png",
+      "Address": "Brown & Burk UK Limited, Micro House, Bury Street, Ruislip, HA4 7TL, UK",
+      "Website": "//www.bbukltd.com",
+      "Telephone": "+44 (0)203 384 7188",
+      "Fax": "+44 (0)208 588 5411",
+      "MedicalInformationDirectLine": "+44 (0)203 384 7188",
+      "MedicalInformationEmail": "pv@bbukltd.com",
+      "CustomerCareDirectLine": "+44 (0)203 384 7188",
+      "MedicalInformationFax": "+44 (0)208 588 5411",
+      "StockAvailability": "+44 (0)203 384 7188"
+    },
+    {
+      "Name": "Camurus AB",
+      "Logo": "Camurus_AB.png",
+      "Address": "Camurus Ltd, The Officers’ Mess Business Centre, Royston Road, Duxford, Cambridge, CB22 4QH, UK",
+      "Website": "https://www.camurus.com",
+      "Telephone": "+44 (0) 1223 919700",
+      "MedicalInformationEmail": "medicalinfo@camurus.com",
+      "StockAvailability": "+44 (0)1773 4741 701",
+      "DrugSafetyEmail": "safety@camurus.com"
+    },
+    {
+      "Name": "Casen Recordati S.L.",
+      "Logo": "Casen_Recordati_S.L..png",
+      "Address": "Autovía de Logroño, km. 13,300 , 50180 Utebo  (Zaragoza) , Spain",
+      "Website": "http://www.casenrecordati.com",
+      "Telephone": "+34976462626",
+      "Fax": "+34976771560",
+      "Email": "pharmacovigilance@casenrecordati.com",
+      "MedicalInformationDirectLine": "+34913517964",
+      "MedicalInformationEmail": "info@casenrecordati.com",
+      "CustomerCareDirectLine": "+34913518800",
+      "MedicalInformationFax": "+34913518799"
+    },
+    {
+      "Name": "CSL Behring UK Limited",
+      "Logo": "CSL_Behring_UK_Limited.png",
+      "Address": "4 Milton Road, Haywards Heath, West Sussex, RH16 1AH, UK",
+      "Website": "http://www.cslbehring.co.uk",
+      "Telephone": "+44 (0)1444 447 400",
+      "Fax": "+44 (0)1444 447 403",
+      "MedicalInformationDirectLine": "+44 (0)1444 447 405",
+      "MedicalInformationEmail": "medinfo@cslbehring.com",
+      "CustomerCareDirectLine": "+44 (0)1444 447 402",
+      "OutOfHoursContact": "+44 (0)1444 447 405"
+    },
+    {
+      "Name": "Daiichi Sankyo UK Limited",
+      "Logo": "Daiichi_Sankyo_UK_Limited.png",
+      "Address": "1st Floor, Building 4, Uxbridge Business Park, Sanderson Road, Uxbridge, UB8 1DH, UK",
+      "Telephone": "+44 (0) 800 028 5122",
+      "MedicalInformationDirectLine": "+44 (0) 800 028 5122",
+      "MedicalInformationEmail": "medinfo@daiichi-sankyo.co.uk",
+      "CustomerCareDirectLine": "+44 (0) 800 028 5122",
+      "OutOfHoursTelephone": "+44 (0) 800 028 5122"
+    },
+    {
+      "Name": "Deciphera",
+      "Logo": "Deciphera.png",
+      "Address": "Strawinskylaan 3051, Atrium Building 4th floor, Amsterdam, 1077ZX, Netherlands",
+      "Website": "https://www.deciphera.com/",
+      "Telephone": "+31 20 299 16 34",
+      "Fax": "+31 20 524 12 60",
+      "MedicalInformationDirectLine": "+41 415620250",
+      "MedicalInformationEmail": "medicalinformation@deciphera.com",
+      "CustomerCareDirectLine": "+44 (0) 1527 396 257",
+      "StockAvailability": "Allogauk.orders@alloga.co.uk"
+    },
+    {
+      "Name": "Dr. Reddy's Laboratories (UK) Ltd",
+      "Logo": "Dr._Reddy's_Laboratories_(UK)_Ltd.png",
+      "Address": "Dr. Reddy's Laboratories (UK) Limited, 410 Cambridge Science Park, Milton Road, Cambridge, CB4 0PE, UK",
+      "Website": "http://www.drreddys.com/united-kingdom",
+      "Telephone": "+44 (0)1223 728 010",
+      "Email": "customerserviceuk@drreddys.com",
+      "MedicalInformationDirectLine": "+44 (0)1748 828 873",
+      "MedicalInformationEmail": "drreddysgb@eu.propharmagroup.com",
+      "CustomerCareDirectLine": "+44 (0)1223 651 475"
+    },
+    {
+      "Name": "Eisai Ltd",
+      "Logo": "Eisai_Ltd.png",
+      "Address": "EMEA Knowledge Centre, Mosquito Way, Hatfield, Hertfordshire, AL10 9SN",
+      "Website": "http://www.eisai.eu",
+      "Telephone": "+44(0)208 600 1400",
+      "MedicalInformationEmail": "EUMedInfo@eisai.net",
+      "OutOfHoursTelephone": "+44 (0)208 600 1400"
+    },
+    {
+      "Name": "Ennogen Healthcare Ltd",
+      "Logo": "Ennogen_Healthcare_Ltd.png",
+      "Address": "Unit G4, Riverside Industrial estate, Riverside Way, Dartford, DA1 5BS, UK",
+      "Telephone": "+44 (0)1322 629 220",
+      "Fax": "+44 (0)1322 311 897",
+      "MedicalInformationDirectLine": "+44 (0)1322 629 220",
+      "MedicalInformationEmail": "medicalinformation@ennogen.com",
+      "CustomerCareDirectLine": "+44 (0)1322 629 220",
+      "StockAvailability": "info@ennogen.com, +44 (0)1322 629 220"
+    },
+    {
+      "Name": "Exeltis UK Ltd",
+      "Logo": "Exeltis_UK_Ltd.png",
+      "Address": "Exeltis UK Ltd., Two Snowhill, 7th Floor, Birmingham, B4 6GA, UK",
+      "Website": "//www.exeltis.co.uk",
+      "Email": "uk.office@exeltis.com",
+      "MedicalInformationDirectLine": "+44 (0)1494 411 775",
+      "MedicalInformationEmail": "uk.medinfo@exeltis.com"
+    },
+    {
+      "Name": "FDC International Ltd",
+      "Logo": "FDC_International_Ltd.png",
+      "Address": "Unit 6 Fulcrum1, Solent Way, Whiteley, Fareham, Hampshire, PO15 7FE",
+      "Website": "http://www.fdcindia.com",
+      "Telephone": "+44 (0)1489 565222",
+      "Fax": "+44 (0)1489 565222",
+      "MedicalInformationEmail": "fdcil@btconnect.com"
+    },
+    {
+      "Name": "Ferring Pharmaceuticals Ltd",
+      "Logo": "Ferring_Pharmaceuticals_Ltd.png",
+      "Address": "Drayton Hall, Church Road, West Drayton, UB7 7PS, UK",
+      "Website": "http://www.ferring.co.uk",
+      "Telephone": "+44 (0)844 931 0050",
+      "Fax": "+44 (0)844 931 0051",
+      "MedicalInformationEmail": "medical.uk@ferring.com",
+      "CustomerCareDirectLine": "0800 111 4125"
+    },
+    {
+      "Name": "Fresenius Kabi Ltd ",
+      "Logo": "Fresenius_Kabi_Ltd_.png",
+      "Address": "Cestrian Court , Eastgate Way, Manor Park , Runcorn , Cheshire , WA7 1NT",
+      "Website": "https://www.fresenius-kabi.com/gb/",
+      "Telephone": "+44 (0)1928 533 533",
+      "Fax": "+44 (0)1928 533 420",
+      "MedicalInformationDirectLine": "+44 (0)1928 533 575",
+      "MedicalInformationEmail": "Medical.Information-UK@fresenius-kabi.com",
+      "CustomerCareDirectLine": "+44 (0)1928 533 533",
+      "MedicalInformationFax": "+44 (0)1928 533 587",
+      "StockAvailability": "customer.services-UK@fresenius-kabi.com"
+    },
+    {
+      "Name": "G.L Pharma UK Limited",
+      "Logo": "G.L_Pharma_UK_Limited.png",
+      "Address": "Suite 3A, 30 St Thomas Place, Cambridgeshire Business Park, Ely, Cambridgeshire, CB7 4EX, UK",
+      "Website": "https://gl-pharma.com/enuk/",
+      "MedicalInformationDirectLine": "01353 882875",
+      "MedicalInformationEmail": "pv@gl-pharma.co.uk",
+      "CustomerCareDirectLine": "01353 882870"
+    },
+    {
+      "Name": "Galderma (U.K) Ltd",
+      "Logo": "Galderma_(U.K)_Ltd.png",
+      "Address": "Evergreen House North, Grafton Place, London, NW1 2DX, UK",
+      "Telephone": "+44 (0)300 3035674",
+      "Fax": "",
+      "MedicalInformationEmail": "medinfo.uk@galderma.com"
+    },
+    {
+      "Name": "GW Pharma Ltd",
+      "Logo": "GW_Pharma_Ltd.png",
+      "Address": "Sovereign House, Vision Park, Chivers Way, Histon, Cambridge, CB24 9BZ",
+      "Website": "//www.gwpharm.co.uk",
+      "MedicalInformationDirectLine": "01223 238170",
+      "MedicalInformationEmail": "medinfo@gwpharm.com"
+    },
+    {
+      "Name": "Haleon UK Trading Limited",
+      "Logo": "Haleon_UK_Trading_Limited.png",
+      "Address": "The Heights, Weybridge, Surrey, KT13 0NY, UK",
+      "Website": "https://www.haleon.com/",
+      "MedicalInformationDirectLine": "0800 783 8881",
+      "MedicalInformationEmail": "mystory.gb@haleon.com",
+      "CustomerCareDirectLine": "0800 783 8881"
+    },
+    {
+      "Name": "Hansa Biopharma AB",
+      "Logo": "Hansa_Biopharma_AB.png",
+      "Address": "Scheelevägen 22, Lund, Sweden",
+      "Website": "//www.hansabiopharma.com/",
+      "Telephone": "+46 (0) 46 16 56 70",
+      "MedicalInformationDirectLine": "0808 2349968",
+      "MedicalInformationEmail": "medinfo@hansabiopharma.com",
+      "CustomerCareDirectLine": "+46 (0) 46 16 56 70"
+    },
+    {
+      "Name": "HRA Pharma UK and Ireland Limited",
+      "Logo": "HRA_Pharma_UK_and_Ireland_Limited.png",
+      "Address": "One, Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW, UK",
+      "Website": "http://www.hra-pharma.com",
+      "Telephone": "+44 (0)20 3750 1720",
+      "MedicalInformationDirectLine": "+44 (0)800 917 9548",
+      "MedicalInformationEmail": "HRA-UK@cambreg.co.uk"
+    },
+    {
+      "Name": "Idorsia Pharmaceuticals UK Ltd",
+      "Logo": "Idorsia_Pharmaceuticals_UK_Ltd.png",
+      "Address": "20 Eastbourne Terrace, London, W2 6LG, UK",
+      "Website": "//www.idorsia.uk",
+      "MedicalInformationDirectLine": "0800 313 4925",
+      "MedicalInformationEmail": "medinfo.ukni@idorsia.com",
+      "CustomerCareDirectLine": "0800 313 4925"
+    },
+    {
+      "Name": "Immunocore Limited",
+      "Logo": "Immunocore_Limited.png",
+      "Address": "92 Park Drive, Milton Park, Abingdon, Oxon, OX14 4RY, UK",
+      "Website": "https://www.immunocore.com/",
+      "Telephone": "+44 (0)1235 438600",
+      "MedicalInformationDirectLine": "+44 (0) 2076645100",
+      "MedicalInformationEmail": "Medinfo.eu@immunocore.com"
+    },
+    {
+      "Name": "Ipsen Ltd",
+      "Logo": "Ipsen_Ltd.png",
+      "Address": "190 Bath Road, Slough, Berkshire, SL1 3XE",
+      "Telephone": "+44 (0)1753 627 777",
+      "MedicalInformationDirectLine": "+44 (0)1753 627 777",
+      "MedicalInformationEmail": "medinfo.uk-ie@ipsen.com",
+      "CustomerCareDirectLine": "+44 (0)1753 627 627"
+    },
+    {
+      "Name": "Janssen-Cilag Ltd",
+      "Logo": "Janssen-Cilag_Ltd.png",
+      "Address": "50 - 100 Holmers Farm Way, High Wycombe, Bucks, HP12 4EG",
+      "Website": "http://www.janssen-cilag.co.uk",
+      "Telephone": "+44 (0)1494 567 567",
+      "Fax": "+44 (0)1494 567 568",
+      "MedicalInformationDirectLine": "+44 (0)800 731 8450",
+      "MedicalInformationEmail": "medinfo@janssen-cilag.co.uk",
+      "CustomerCareDirectLine": "+44 (0)800 731 5550",
+      "MedicalInformationFax": "+44 (0) 1494 567 445"
+    },
+    {
+      "Name": "Jazz Pharmaceuticals UK",
+      "Logo": "Jazz_Pharmaceuticals_UK.png",
+      "Address": "Wing B, Building 5700, Spires House, John Smith Drive, Oxford Business Park South, Oxford, OX2 4RW",
+      "Website": "http://www.jazzpharma.com",
+      "Telephone": "+44 (0)1865 405 000",
+      "Fax": "+44 (0)1865 405 139",
+      "MedicalInformationDirectLine": "0808 189 0387",
+      "MedicalInformationEmail": "Medinfo-uk@jazzpharma.com",
+      "CustomerCareDirectLine": "+44 (0)1865 405 019",
+      "MedicalInformationFax": "+44 (0)1748 828 801"
+    },
+    {
+      "Name": "Johnson & Johnson Ltd",
+      "Logo": "Johnson_&_Johnson_Ltd.png",
+      "Address": "50 -100 Holmers Farm Way, High Wycombe, Buckinghamshire, HP12 4EG, UK",
+      "MedicalInformationDirectLine": "0808 238 9999 (freephone)",
+      "MedicalInformationEmail": "consumer-gb@kenvue.com"
+    },
+    {
+      "Name": "Karo Pharma AB",
+      "Logo": "Karo_Pharma_AB.png",
+      "Address": "Klara Norra Kyrkogata 33, Stockholm, Sweden",
+      "Website": "https://www.karopharma.com/",
+      "Telephone": "+44 (0) 8000461977",
+      "MedicalInformationDirectLine": "+44 (0) 8000461977",
+      "MedicalInformationEmail": "MedinfoUK@karopharma.com",
+      "CustomerCareDirectLine": "+44 (0) 8000461977",
+      "StockAvailability": "supply@karopharma.se"
+    },
+    {
+      "Name": "Kora Healthcare",
+      "Logo": "Kora_Healthcare.png",
+      "Address": "Swords Business Campus, Swords, Co. Dublin, Ireland",
+      "Website": "http://www.korahealthcare.com",
+      "Telephone": "+353 1 890 0406",
+      "Fax": "+353 1 890 3016",
+      "MedicalInformationEmail": "medinfo@korahealthcare.com"
+    },
+    {
+      "Name": "Kyowa Kirin Ltd",
+      "Logo": "Kyowa_Kirin_Ltd.png",
+      "Address": "Galabank Business Park, Galashiels, TD1 1QH",
+      "MedicalInformationDirectLine": "+ 44 (0)1896 664 000",
+      "MedicalInformationEmail": "medinfo@kyowakirin.com"
+    },
+    {
+      "Name": "L.D. Collins & Co. Ltd.",
+      "Logo": "L.D._Collins_&_Co._Ltd..png",
+      "Address": "1st Floor, Gallery Court, Arcadia Avenue, London, N3 2FG, UK",
+      "Website": "http://ldcollins.com",
+      "Telephone": "+44 (0)2071 298660",
+      "MedicalInformationDirectLine": "+44 (0)2071 298660",
+      "MedicalInformationEmail": "medicalinfo@ldcollins.com",
+      "CustomerCareDirectLine": "+44 (0)2071 298660",
+      "StockAvailability": "enquiries@ldcollins.com"
+    },
+    {
+      "Name": "Laboratorios Liconsa, S.A.",
+      "Logo": "Laboratorios_Liconsa,_S.A..png",
+      "Address": "Street Manuel Pombo Angulo, 28 3rd floor, Madrid, 28050, Spain",
+      "Website": "https://www.chemopharmaceuticals.com/, https://www.insudpharma.com/",
+      "Telephone": "+34 619 27 55 90",
+      "Fax": "+34 949 26 42 58",
+      "MedicalInformationDirectLine": "+34 619 27 55 90",
+      "MedicalInformationEmail": "pharmacovigilance@chemogroup.com",
+      "CustomerCareDirectLine": "+34 91 771 15 00"
+    },
+    {
+      "Name": "Luye Pharma Limited",
+      "Logo": "Luye_Pharma_Limited.png",
+      "Address": "Surrey Technology Centre, 40 Occam Road, Surrey Research Park, Guildford, GU2 7YG",
+      "MedicalInformationEmail": "safety@luyepharma.co.uk"
+    },
+    {
+      "Name": "Macure Pharma UK Ltd",
+      "Logo": "Macure_Pharma_UK_Ltd.png",
+      "Address": "3 Waterhouse Square, 138 Holborn, London, EC1N 2SW , UK",
+      "Telephone": "+45 70 20 41 07",
+      "MedicalInformationDirectLine": "+45 70 20 41 07",
+      "MedicalInformationEmail": "info@macurepharma.com"
+    },
+    {
+      "Name": "Martindale Pharma, an Ethypharm Group Company",
+      "Logo": "Martindale_Pharma,_an_Ethypharm_Group_Company.png",
+      "Address": "Jupiter House, Mercury Park, Wooburn Green, High Wycombe, Buckinghamshire, HP10 0HH, UK",
+      "Website": "http://ethypharm.co.uk/",
+      "Telephone": "+44 (0) 1277 266 600",
+      "MedicalInformationEmail": "medinfo@ethypharm.com"
+    },
+    {
+      "Name": "Mylan",
+      "Logo": "Mylan.png",
+      "Address": "Building 4, Trident Place, Mosquito Way, Hatfield, Hertfordshire, AL10 9UL",
+      "Website": "http://www.mylan.com",
+      "Telephone": "+44 (0)1707 853 000",
+      "Fax": "+44 (0)1707 261 803",
+      "MedicalInformationDirectLine": "+44 (0)1707 853 000",
+      "MedicalInformationEmail": "info@mylan.co.uk",
+      "CustomerCareDirectLine": "+44 (0)1707 853 000 select option 2",
+      "MedicalInformationFax": "+44 (0)1707 261 803",
+      "StockAvailability": "+44 (0)1707 853 000 select option 2"
+    },
+    {
+      "Name": "Napp Pharmaceuticals Limited",
+      "Logo": "Napp_Pharmaceuticals_Limited.png",
+      "Address": "Cambridge Science Park, Milton Road, Cambridge, Cambridgeshire, CB4 0GW",
+      "Website": "http://www.napp.co.uk",
+      "Telephone": "+44 (0)1223 424 444",
+      "MedicalInformationEmail": "medicalinformationuk@napp.co.uk"
+    },
+    {
+      "Name": "Neon Healthcare Ltd",
+      "Logo": "Neon_Healthcare_Ltd.png",
+      "Address": "8 The Chase, John Tate Road, Foxholes Business Park, Hertford, Hertfordshire, SG13 7NN, UK",
+      "Website": "http://www.neonhealthcare.com",
+      "Telephone": "+44 (0)1992 926 330",
+      "MedicalInformationDirectLine": "+44 (0)1992 926 330",
+      "MedicalInformationEmail": "medinfo@neonhealthcare.com",
+      "CustomerCareDirectLine": "+44 (0)1992 926 330",
+      "StockAvailability": "office@neonhealthcare.com, +44 (0)1992 926 330"
+    },
+    {
+      "Name": "Novumgen Limited",
+      "Logo": "Novumgen_Limited.png",
+      "Address": "Novumgen Limited, 20-22 Wenlock Road, London, N1 7GU, UK",
+      "Website": "//www.novumgen.uk",
+      "MedicalInformationDirectLine": "+44 (0)203 096 2886",
+      "MedicalInformationEmail": "safety@orbitpharm.uk",
+      "CustomerCareDirectLine": "+44 (0)203 096 6496"
+    },
+    {
+      "Name": "Octapharma Limited",
+      "Logo": "Octapharma_Limited.png",
+      "Address": "Glassworks House, 32 Shudehill, Manchester, England, M4 1EZ, UK",
+      "Website": "http://www.octapharma.co.uk",
+      "Telephone": "+44 (0)161 837 3770",
+      "Fax": "+44 (0)161 837 3799",
+      "MedicalInformationEmail": "medinfo.uk@octapharma.com",
+      "MedicalInformationFax": "+44 (0)161 837 3799"
+    },
+    {
+      "Name": "Orexigen Therapeutics Ireland Limited",
+      "Logo": "Orexigen_Therapeutics_Ireland_Limited.png",
+      "Address": "2nd Floor, Palmerston House, Dublin 2, Ireland",
+      "MedicalInformationDirectLine": "0800-051-6402",
+      "MedicalInformationEmail": "currax.mi@primevigilance.com",
+      "CustomerCareDirectLine": "0800-051-6402",
+      "MedicalInformationFax": "+44 203 905 2657"
+    },
+    {
+      "Name": "Otsuka Pharmaceuticals (UK) Ltd",
+      "Logo": "Otsuka_Pharmaceuticals_(UK)_Ltd.png",
+      "Address": "2 Windsor Dials, Arthur Road, Windsor, SL4 1RS, UK",
+      "Website": "http://www.otsuka-europe.com",
+      "Telephone": "+44 (0)20 3747 5300",
+      "Fax": "+44 (0)20 8848 0529",
+      "MedicalInformationEmail": "medical.information@otsuka-europe.com"
+    },
+    {
+      "Name": "Pacira Biosciences",
+      "Logo": "Pacira_Biosciences.png",
+      "Address": "Pacira Ireland Ltd, Unit 13 Classon House, Dundrum Business Park, Dundrum, Dublin, D14W9Y3, Ireland",
+      "Website": "//www.pacira.eu",
+      "Telephone": "+44 800 949 6911",
+      "MedicalInformationDirectLine": "+44 800 949 6911",
+      "MedicalInformationEmail": "medinfo.eu@pacira.com",
+      "CustomerCareDirectLine": "+44 800 949 6911",
+      "StockAvailability": "Available"
+    },
+    {
+      "Name": "Panpharma UK Ltd",
+      "Logo": "Panpharma_UK_Ltd.png",
+      "Address": "3 Southport Business Park, Wight Moss Way, Southport, PR8 4HQ, UK",
+      "Website": "//www.panpharma.eu",
+      "Telephone": "+44 (0)1704 652 143",
+      "Email": "info@panpharma.uk",
+      "MedicalInformationDirectLine": "+44 (0)808 234 2526",
+      "MedicalInformationEmail": "Panpharma.medinfo@universalmedica.com",
+      "CustomerCareDirectLine": "+44 (0)1704 652 143",
+      "StockAvailability": "info@panpharma.uk, +44 (0)1704 652 143"
+    },
+    {
+      "Name": "PTC Therapeutics Ltd",
+      "Logo": "PTC_Therapeutics_Ltd.png",
+      "Address": "Building 2, Ground Floor, Guildford Business Park, Guildford, GU2 8XG, UK",
+      "Website": "http://www.ptcbio.co.uk",
+      "Telephone": "+44 (0)1483 246 865",
+      "MedicalInformationDirectLine": "0345 075 4864",
+      "MedicalInformationEmail": "medinfo@ptcbio.com"
+    },
+    {
+      "Name": "Qdem Pharmaceuticals Limited",
+      "Logo": "Qdem_Pharmaceuticals_Limited.png",
+      "Address": "Cambridge Science Park, Milton Road, Cambridge, CB4 0AB",
+      "Website": "https://napp.co.uk/products/qdem",
+      "Telephone": "+44 (0)1223 426 929",
+      "MedicalInformationDirectLine": "+44 (0)1223 426 929",
+      "CustomerCareDirectLine": "+44 (0)1223 426 929"
+    },
+    {
+      "Name": "Ranbaxy (UK) Limited a Sun Pharmaceutical Company",
+      "Logo": "Ranbaxy_(UK)_Limited_a_Sun_Pharmaceutical_Company.png",
+      "Address": "6-9 The Square, Stockley Park, Uxbridge, UB11 1FW, UK",
+      "Website": "http://www.sunpharma.com",
+      "Telephone": "+44 (0) 208 848 8688",
+      "Email": "Cserv.uk@sunpharma.com",
+      "MedicalInformationDirectLine": "+44 (0) 208 848 5052",
+      "MedicalInformationEmail": "medinfoeurope@sunpharma.com",
+      "OutOfHoursContact": "medinfoeurope@sunpharma.com"
+    },
+    {
+      "Name": "Reckitt Benckiser Healthcare (UK) Ltd",
+      "Logo": "Reckitt_Benckiser_Healthcare_(UK)_Ltd.png",
+      "Address": "RB Consumer Relations, PO Box 4644, SLOUGH, SL1 0NS, UK",
+      "Website": "http://www.reckittbenckiser.com",
+      "Telephone": "0333 2005 345",
+      "MedicalInformationDirectLine": "0333 2005 345",
+      "CustomerCareDirectLine": "0333 2005 345"
+    },
+    {
+      "Name": "RPH Pharmaceuticals AB",
+      "Logo": "RPH_Pharmaceuticals_AB.png",
+      "Address": "Box 603, 101 32 Stockholm, Sweden",
+      "Website": "//www.recipharm.com",
+      "Telephone": "+44 (0)845 023 0467",
+      "Email": "customer.care@recipharm.com",
+      "MedicalInformationDirectLine": "+44 207 862 1716",
+      "MedicalInformationEmail": "safety@elc-group.com",
+      "CustomerCareDirectLine": "+44(0)845 023 0467",
+      "StockAvailability": "+44(0)845 023 0467"
+    },
+    {
+      "Name": "Samsung Bioepis UK Limited",
+      "Logo": "Samsung_Bioepis_UK_Limited.png",
+      "Address": "Samsung Bioepis UK Limited, 5th Floor, Profile West, 950 Great West Road, Brentford, Middlesex, TW8 9ES, UK",
+      "Website": "//www.samsungbioepis.com/en/index.do",
+      "Telephone": "+82 32 728 0114",
+      "MedicalInformationDirectLine": "+44 (0)203 608 8622",
+      "MedicalInformationEmail": "medinfo.europe@biogen.com",
+      "CustomerCareDirectLine": "+44 (0)203 608 8622"
+    },
+    {
+      "Name": "SANOFI",
+      "Logo": "SANOFI.png",
+      "Address": "Sanofi, 410 Thames Valley Park Drive, Reading, Berkshire, RG6 1PT, UK",
+      "Telephone": "+44 (0)118 354 3000",
+      "MedicalInformationDirectLine": "+44 (0)800 035 2525",
+      "MedicalInformationEmail": "uk-medicalinformation@sanofi.com"
+    },
+    {
+      "Name": "Syner-Medica Ltd",
+      "Logo": "Syner-Medica_Ltd.png",
+      "Address": "Syner-Med House, 120 High Street, Purley, Surrey, CR8 2AD",
+      "Website": "http://www.syner-med.com",
+      "Telephone": "+44 (0)208 655 6380",
+      "Fax": "+44 (0)208 655 6398",
+      "MedicalInformationDirectLine": "+44 (0)208 655 6380",
+      "MedicalInformationEmail": "medicalinformation@syner-med.com",
+      "CustomerCareDirectLine": "+44 (0)208 655 6380",
+      "MedicalInformationFax": "+44 (0)208 655 6398"
+    },
+    {
+      "Name": "Takeda UK Ltd",
+      "Logo": "Takeda_UK_Ltd.png",
+      "Address": "1 Kingdom Street, London, W2 6BD, UK",
+      "Website": "//www.takeda.com/en-gb/",
+      "Telephone": "+44 (0)3333 000 181",
+      "MedicalInformationDirectLine": "+44 (0)3333 000 181",
+      "MedicalInformationEmail": "medinfoemea@takeda.com",
+      "DrugSafetyEmail": "AE.GBR-IRL@takeda.com"
+    },
+    {
+      "Name": "Ten Pharma (a subsidiary of BCM Specials Ltd)",
+      "Logo": "Ten_Pharma_(a_subsidiary_of_BCM_Specials_Ltd).png",
+      "Address": "1, Thane Road West, NG2 3AA",
+      "Website": "// www.bcm-specials.co.uk",
+      "Telephone": "0333 0032 9301",
+      "MedicalInformationDirectLine": "+44 (0)74948 10116",
+      "MedicalInformationEmail": "medinfo@nkpharma.co.uk",
+      "CustomerCareDirectLine": "+44 (0)74948 10116"
+    },
+    {
+      "Name": "Typharm Limited",
+      "Logo": "Typharm_Limited.png",
+      "Address": "Unit 1, 39 Mahoney Green, Rackheath, Norwich, Norfolk, NR13 6JY",
+      "Website": "http://typharm.com",
+      "Telephone": "+44 (0)1603 722480",
+      "Fax": "+44 (0)1603 263804",
+      "MedicalInformationDirectLine": "+44 (0)2037 694160",
+      "MedicalInformationEmail": "medinfo@typharm.com",
+      "CustomerCareDirectLine": "+44 (0)1603 722480",
+      "StockAvailability": "+44 (0)1603 722480"
+    },
+    {
+      "Name": "UCB Pharma Limited",
+      "Logo": "UCB_Pharma_Limited.png",
+      "Address": "208 Bath Road, Slough, Berkshire, SL1 3WE",
+      "Telephone": "+ 44 (0) 1753 534655",
+      "MedicalInformationDirectLine": "+44 (0) 1753 777 100",
+      "MedicalInformationEmail": "UCBCares.UK@ucb.com"
+    },
+    {
+      "Name": "Univar Solutions B.V.",
+      "Logo": "Univar_Solutions_B.V..png",
+      "Address": "Schouwburgplein 30-34, Rotterdam, 3012 CL, Netherlands",
+      "MedicalInformationEmail": "Prescription.Medicines@UnivarSolutions.com",
+      "CustomerCareDirectLine": "01604 433576",
+      "StockAvailability": "01604 433576 / alcuraorders@alcura-health.co.uk"
+    },
+    {
+      "Name": "Upjohn UK Limited",
+      "Logo": "Upjohn_UK_Limited.png",
+      "Address": "Building 4, Trident Place, Mosquito Way, Hatfield , Hertfordshire, AL10 9UL, UK",
+      "Website": "http://www.mylan.com",
+      "Telephone": "+44 (0)1707 853 000",
+      "Fax": "+44 (0)1707 261 803",
+      "MedicalInformationDirectLine": "+44 (0)1707 853 000",
+      "MedicalInformationEmail": "info@mylan.co.uk",
+      "CustomerCareDirectLine": "+44 (0)1707 853 000 select option 2",
+      "MedicalInformationFax": "+44 (0)1707 261 803",
+      "StockAvailability": "+44 (0)1707 853 000 select option 2"
+    },
+    {
+      "Name": "Valneva UK Limited",
+      "Logo": "Valneva_UK_Limited.png",
+      "Address": "Centaur House, Ancells Business Park, Ancells Road, Fleet, GU51 2UJ, UK",
+      "Website": "http://www.valneva.co.uk",
+      "MedicalInformationDirectLine": "+ enquiries +44 (0)1506 446 608",
+      "MedicalInformationEmail": "medinfo@valneva.com",
+      "AdverseEventReportingEmail": "safety@valneva.com"
+    },
+    {
+      "Name": "Vertex Pharmaceuticals (Europe) Limited",
+      "Logo": "Vertex_Pharmaceuticals_(Europe)_Limited.png",
+      "Address": "2 Kingdom Street, London, W2 6BD, UK",
+      "Telephone": "+44 (0)20 3204 5100",
+      "MedicalInformationDirectLine": "0800 028 2616",
+      "MedicalInformationEmail": "vertexmedicalinfo@vrtx.com",
+      "CustomerCareDirectLine": "0800 028 2616"
+    },
+    {
+      "Name": "Vygoris Limited",
+      "Logo": "Vygoris_Limited.png",
+      "Address": "2 Eastbourne Terrace, London, W2 6LG",
+      "Website": "http://www.vygoris.com",
+      "Telephone": "+44 (0)1223 395 301",
+      "Fax": "+44 (0)1223 395 302",
+      "MedicalInformationDirectLine": "+44 (0)1223 395 301",
+      "MedicalInformationEmail": "safety@productlife-group.com",
+      "CustomerCareDirectLine": "+44 (0)1223 395 301"
+    },
+    {
+      "Name": "Wallace Manufacturing Chemists Ltd",
+      "Logo": "Wallace_Manufacturing_Chemists_Ltd.png",
+      "Address": "Wallace House, New Abbey Court, 51-53 Stert Street, Abingdon, Oxon, OX14 3JF, UK",
+      "Website": "http://www.alinter.co.uk",
+      "Telephone": "+44(0) 1235 538 700",
+      "Fax": "+44 (0)1235 538 800",
+      "MedicalInformationDirectLine": "+44 (0)1235 538 700",
+      "CustomerCareDirectLine": "+44 (0)1235 538 700",
+      "MedicalInformationFax": "+44 (0)1235 538 800"
+    },
+    {
+      "Name": "Wockhardt UK Ltd",
+      "Logo": "Wockhardt_UK_Ltd.png",
+      "Address": "Ash Road North, Wrexham Industrial Estate, Wrexham, LL13 9UF",
+      "Website": "//www.wockhardt.co.uk",
+      "Telephone": "+44 (0)1978 661 261",
+      "Fax": "+44 (0)1978 661 702",
+      "MedicalInformationEmail": "Drug.Safety@wockhardt.co.uk"
+    },
+    {
+      "Name": "Zambon UK Limited (Formerly Profile Pharma Limited)",
+      "Logo": "Zambon_UK_Limited_(Formerly_Profile_Pharma_Limited).png",
+      "Address": "Ground Floor, Suite F, Breakspear Park, Breakspear Way, Hemel Hempstead, HP2 4TZ, UK",
+      "Website": "https://www.zambonpharma.com/gb/en/",
+      "Fax": "+44(0)1243 859 001",
+      "MedicalInformationDirectLine": "0800 0288 942",
+      "MedicalInformationEmail": "infouk@zambongroup.com",
+      "OutOfHoursContact": "0800 0288 942"
+    },
+    {
+      "Name": "ZR Pharma & GmBH",
+      "Logo": "ZR_Pharma_&_GmBH.png",
+      "Address": "Taborstrasse 2, 1020, Vienna, Austria",
+      "Website": "//www.pharmaand.com",
+      "MedicalInformationDirectLine": "[UK] +44 (0)20 3318 1995, [Ireland] +353 1960 9198"
+    }
+  ]
+}
